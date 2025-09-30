@@ -1,6 +1,4 @@
 # The-Ultimate-Comedian
-The-Ultimate-Comedian
-
 The Ultimate Comedian — Python, Web Scraping, Data Cleaning, GPT-4o-mini, LLaMA-3.2-B Instruct, Unsloth, PyTorch
 Aug 2025
 
